@@ -6,7 +6,7 @@ void main() {
   // String? name;
   // print("My name is $name");
 
-  int a = 10;
-  a ??= 20;
-  print(a);
+  // int a = 10;
+  // a ??= 20;
+  // print(a);
 }
