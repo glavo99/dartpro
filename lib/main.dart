@@ -5,4 +5,6 @@ void main() {
   print(c);
   String? name;
   print("My name is $name");
+  bool aaa = true;
+  print(aaa);
 }
